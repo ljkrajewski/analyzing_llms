@@ -69,6 +69,9 @@ This involves unauthorized access, copying, or exfiltration of proprietary LLM m
 - [AI Security Overview](https://owaspai.org/docs/ai_security_overview/)
 - [Machine Learning Security Top Ten](https://owasp.org/www-project-machine-learning-security-top-10/)
 
+### Other Resources
+- [AI risk atlas [IBM watsonx]](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas)
+
 ## Code Testing LLMs
 Testing AI LLMs designed to write code involves evaluating their performance on a range of tasks that assess their ability to generate correct and efficient code. Here is a list of tests to consider:
 
