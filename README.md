@@ -7,5 +7,5 @@ If you don't know where to start, [start here](introduction.md).
 
 ## Other sources of info
 - JailbreakBench ([github](https://github.com/JailbreakBench/jailbreakbench), [Hugging Face](https://huggingface.co/JailbreakBench)): An open-source robustness benchmark for jailbreaking large language models (LLMs).
-- [Jailbreaking Black Box Large Language Models in Twenty Queries (github)](https://github.com/patrickrchao/JailbreakingLLMs): Code for the _Prompt Automatic Iterative Refinement_ (PAIR), an algorithm that generates semantic jailbreaks with only black-box access to an LLM.
+- [Jailbreaking Black Box Large Language Models in Twenty Queries (github)](https://github.com/patrickrchao/JailbreakingLLMs): Code for the _Prompt Automatic Iterative Refinement_ (PAIR), an algorithm that generates semantic jailbreaks with only black-box access to an LLM. ([paper](https://arxiv.org/pdf/2310.08419))
 - [jailbreakchat.com](https://jailbreakchat.com)
